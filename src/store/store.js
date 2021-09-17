@@ -9,7 +9,7 @@ Vue.use(Vuex);
 
 export const store = new Vuex.Store({
   state: {
-    purhase: 0.0,
+    purchase: 0.0,
     sale: 0.0,
     balance: 0.0
   },
